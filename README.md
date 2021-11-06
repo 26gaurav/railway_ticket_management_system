@@ -1,5 +1,4 @@
 # railway_ticket_management_system
-ticket booking system developed using system programming in linux.
 
 ----------------Railway Ticket Management System----------------------
 
